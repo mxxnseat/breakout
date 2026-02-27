@@ -1,0 +1,11 @@
+Objects:
+  - platform
+  - ball
+  - breaks
+
+Functionality:
+  - platform movemenet
+  - ball movemenet
+  - ball collision
+  - breaks collision
+  - breaks destruction
